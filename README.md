@@ -1,0 +1,2 @@
+# Laravel_motivation_everyday
+Motivation Everyday
